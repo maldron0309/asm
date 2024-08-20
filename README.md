@@ -21,6 +21,17 @@
 
 각 포스트에 대한 링크는 다음과 같습니다:
 
+  * [X86_64 어셈블리와 친해지기 [파트 1]](https://github.com/maldron0309/asm/blob/korean/content/ko_asm_1.md)
+  * [X86_64 어셈블리와 친해지기 [파트 2]](https://github.com/maldron0309/asm/blob/korean/content/ko_asm_2.md)
+  * [X86_64 어셈블리와 친해지기 [파트 3]](https://github.com/maldron0309/asm/blob/korean/content/ko_asm_3.md)
+  * [X86_64 어셈블리와 친해지기 [파트 4]](https://github.com/maldron0309/asm/blob/korean/content/ko_asm_4.md)
+  * [X86_64 어셈블리와 친해지기 [파트 5]](https://github.com/maldron0309/asm/blob/korean/content/ko_asm_5.md)
+  * [X86_64 어셈블리와 친해지기 [파트 6]](https://github.com/maldron0309/asm/blob/korean/content/ko_asm_6.md)
+  * [X86_64 어셈블리와 친해지기 [파트 7]](https://github.com/maldron0309/asm/blob/korean/content/ko_asm_7.md)
+  * [X86_64 어셈블리와 친해지기 [파트 8]](https://github.com/maldron0309/asm/blob/korean/content/ko_asm_8.md)
+
+## 원본 
+
   * [Say hello to x86_64 Assembly part 1](https://github.com/0xAX/asm/blob/master/content/asm_1.md)
   * [Say hello to x86_64 Assembly part 2](https://github.com/0xAX/asm/blob/master/content/asm_2.md)
   * [Say hello to x86_64 Assembly part 3](https://github.com/0xAX/asm/blob/master/content/asm_3.md)
